@@ -10,10 +10,29 @@ header {
 
 main {
   background-color: $background-color;
-  height: 100vh;
+  height: fit-content;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .btn {
+    padding: 0.7rem 2rem;
+    margin: 1rem 0;
+    font-size: 1.2rem;
+    text-align: center;
+    color: $white-color;
+    background-color: $primary-color;
+    transition: all 0.3s ease-out;
+
+    &:hover {
+      background-color: $primary-color-light;
+    }
+  }
 
   .sidebar {
-    position: absolute;
+    position: fixed;
     top: 0;
     right: 0;
     display: flex;

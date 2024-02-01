@@ -151,10 +151,28 @@ header .navbar #navbarNav {
 
 main {
   background-color: #30343f;
-  height: 100vh;
+  height: -moz-fit-content;
+  height: fit-content;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+main .btn {
+  padding: 0.7rem 2rem;
+  margin: 1rem 0;
+  font-size: 1.2rem;
+  text-align: center;
+  color: #fff;
+  background-color: #5b2a86;
+  transition: all 0.3s ease-out;
+}
+main .btn:hover {
+  background-color: #9d4edd;
 }
 main .sidebar {
-  position: absolute;
+  position: fixed;
   top: 0;
   right: 0;
   display: flex;
@@ -180,4 +198,84 @@ main .sidebar .sidebar-links i {
 }
 main .sidebar .sidebar-links i:hover {
   transform: translateX(-0.5rem);
+}
+
+.hero {
+  width: 100%;
+  max-width: 1360px;
+  padding: 10rem 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40rem;
+}
+@media screen and (max-width: 768px) {
+  .hero {
+    margin-top: 1rem;
+    flex-direction: column;
+    padding: 0 3rem;
+  }
+}
+.hero .hero-text {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: left;
+}
+@media screen and (max-width: 768px) {
+  .hero .hero-text {
+    width: 100%;
+    align-items: center;
+  }
+}
+.hero .hero-text h1 {
+  color: #fff;
+  margin-bottom: 1rem;
+  font-size: 3.5rem;
+}
+@media screen and (max-width: 1024px) {
+  .hero .hero-text h1 {
+    font-size: 2.5rem;
+  }
+}
+.hero .hero-text h2 {
+  color: #9d4edd;
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+@media screen and (max-width: 1024px) {
+  .hero .hero-text h2 {
+    font-size: 1.8rem;
+  }
+}
+.hero .hero-text .btn {
+  width: -moz-fit-content;
+  width: fit-content;
+}
+.hero .hero-img {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hero .hero-img img {
+  width: 22rem;
+  height: 22rem;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 50%;
+}
+@media screen and (max-width: 1024px) {
+  .hero .hero-img img {
+    width: 18rem;
+    height: 18rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  .hero .hero-img img {
+    margin-top: 2rem;
+    width: 15rem;
+    height: 15rem;
+  }
 }/*# sourceMappingURL=global.css.map */
