@@ -1,0 +1,100 @@
+{
+  "projects": [
+    {
+      "title": "Play Music",
+      "image": "./Assets/projects/Illustration-gallery-thumbnail.png",
+      "description": "Play Music",
+      "techStack": "HTML, CSS, SCSS, JavaScript",
+      "sourceCode": "https://github.com/Mind1a/playMusic",
+      "viewDemo": "https://mind1a.github.io/playMusic/"
+    },
+    {
+      "title": "Illustrations Gallery",
+      "image": "./Assets/projects/Play-music-thumbnail.png",
+      "description": "Illustrations Gallery",
+      "techStack": "HTML, CSS, SCSS, JavaScript",
+      "sourceCode": "https://github.com/Mind1a/illustrationsGallery",
+      "viewDemo": "https://mind1a.github.io/illustrationsGallery/"
+    },
+    {
+      "title": "Tourist Landing Page",
+      "image": "./Assets/projects/Tourist-landing-page-thumbnail.png",
+      "description": "Tourist Landing Page",
+      "techStack": "HTML, CSS, JavaScript, API",
+      "sourceCode": "https://github.com/Lipartiaana/Tourist-landing-page",
+      "viewDemo": "https://lipartiaana.github.io/Tourist-landing-page/"
+    },
+    {
+      "title": "My Portfolio",
+      "image": "./Assets/projects/My-JS-portfolio-thumbnail.png",
+      "description": "My Portfolio",
+      "techStack": "HTML, CSS, SCSS, JavaScript",
+      "sourceCode": "https://github.com/Lipartiaana/JS-portfolio",
+      "viewDemo": "https://lipartiaana.github.io/JS-portfolio/"
+    },
+    {
+      "title": "Exotic Registration Form",
+      "image": "./Assets/projects/Exotic-registration-thumbnail.png",
+      "description": "Exotic Registration Form",
+      "techStack": "HTML, CSS, JavaScript",
+      "sourceCode": "https://github.com/Lipartiaana/Exotic-registration-form",
+      "viewDemo": "https://lipartiaana.github.io/Exotic-registration-form/"
+    },
+    {
+      "title": "Tip Calculator",
+      "image": "./Assets/projects/Tip-calculator-thumbnail.png",
+      "description": "Tip Calculator",
+      "techStack": "HTML, CSS, JavaScript",
+      "sourceCode": "https://github.com/Lipartiaana/Tip-Calculator",
+      "viewDemo": "https://lipartiaana.github.io/Tip-Calculator/"
+    },
+    {
+      "title": "Legal Services Page",
+      "image": "./Assets/projects/Legal-services-thumbnail.png",
+      "description": "Legal Services Page",
+      "techStack": "HTML, CSS",
+      "sourceCode": "https://github.com/Lipartiaana/Legal-Services-page",
+      "viewDemo": "https://lipartiaana.github.io/Legal-Services-page/"
+    },
+    {
+      "title": "Memory Game",
+      "image": "./Assets/projects/Memory-game-thumbnail.png",
+      "description": "Memory Game",
+      "techStack": "HTML, CSS, SCSS, JavaScript",
+      "sourceCode": "https://github.com/Lipartiaana/Memory-game",
+      "viewDemo": "https://lipartiaana.github.io/Memory-game/"
+    },
+    {
+      "title": "Travel In Georgia",
+      "image": "./Assets/projects/Travel-in-Georgia-thumbnail.png",
+      "description": "Travel In Georgia",
+      "techStack": "HTML, CSS",
+      "sourceCode": "https://github.com/Lipartiaana/Travel-in-Georgia",
+      "viewDemo": "https://lipartiaana.github.io/Travel-in-Georgia/"
+    },
+    {
+      "title": "New Year Countdown",
+      "image": "./Assets/projects/New-year-countdown-thumbnail.png",
+      "description": "Travel In Georgia",
+      "techStack": "HTML, CSS, ",
+      "sourceCode": "https://github.com/Lipartiaana/New-Year-Countdown",
+      "viewDemo": "https://lipartiaana.github.io/New-Year-Countdown/"
+    },
+    {
+      "title": "Pig Game",
+      "image": "./Assets/projects/Pig-game-thumbnail.png",
+      "description": "Pig Game",
+      "techStack": "HTML, CSS, JavaScript",
+      "sourceCode": "https://github.com/Lipartiaana/Pig-Game",
+      "viewDemo": "https://lipartiaana.github.io/Pig-Game/"
+    },
+    {
+      "title": "Guess My Number",
+      "image": "./Assets/projects/Guess-my-number-thumbnail.png",
+      "description": "Guess My Number",
+      "techStack": "HTML, CSS, JavaScript",
+      "sourceCode": "https://github.com/Lipartiaana/Guess-My-Number-Game",
+      "viewDemo": "https://lipartiaana.github.io/Guess-My-Number-Game/"
+    }
+  ]
+}
