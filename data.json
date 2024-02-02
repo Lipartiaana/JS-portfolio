@@ -2,7 +2,7 @@
   "projects": [
     {
       "title": "Play Music",
-      "image": "./Assets/projects/Illustration-gallery-thumbnail.png",
+      "image": "./Assets/projects/Play-music-thumbnail.png",
       "description": "Play Music",
       "techStack": "HTML, CSS, SCSS, JavaScript",
       "sourceCode": "https://github.com/Mind1a/playMusic",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Illustrations Gallery",
-      "image": "./Assets/projects/Play-music-thumbnail.png",
+      "image": "./Assets/projects/Illustration-gallery-thumbnail.png",
       "description": "Illustrations Gallery",
       "techStack": "HTML, CSS, SCSS, JavaScript",
       "sourceCode": "https://github.com/Mind1a/illustrationsGallery",
@@ -34,7 +34,7 @@
     },
     {
       "title": "Exotic Registration Form",
-      "image": "./Assets/projects/Exotic-registration-thumbnail.png",
+      "image": "./Assets/projects/Exotic-registration-form-thumbnail.png",
       "description": "Exotic Registration Form",
       "techStack": "HTML, CSS, JavaScript",
       "sourceCode": "https://github.com/Lipartiaana/Exotic-registration-form",
@@ -50,7 +50,7 @@
     },
     {
       "title": "Legal Services Page",
-      "image": "./Assets/projects/Legal-services-thumbnail.png",
+      "image": "./Assets/projects/Legal-services-page-thumbnail.png",
       "description": "Legal Services Page",
       "techStack": "HTML, CSS",
       "sourceCode": "https://github.com/Lipartiaana/Legal-Services-page",
@@ -76,7 +76,7 @@
       "title": "New Year Countdown",
       "image": "./Assets/projects/New-year-countdown-thumbnail.png",
       "description": "Travel In Georgia",
-      "techStack": "HTML, CSS, ",
+      "techStack": "HTML, CSS, JavaScript",
       "sourceCode": "https://github.com/Lipartiaana/New-Year-Countdown",
       "viewDemo": "https://lipartiaana.github.io/New-Year-Countdown/"
     },
