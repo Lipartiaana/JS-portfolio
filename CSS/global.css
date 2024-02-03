@@ -456,4 +456,186 @@ body main .sidebar .sidebar-links i:hover {
 }
 .projects-container .projects-wrapper .project .project-btns a .btn:hover {
   background-color: #5b2a86;
+}
+
+.contact-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  max-width: 1360px;
+  padding: 2rem;
+  position: relative;
+  margin-bottom: 0;
+}
+@media screen and (max-width: 1360px) {
+  .contact-container {
+    width: 85%;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .contact-container {
+    width: 90%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .contact-container {
+    flex-direction: column;
+    margin-top: 5rem;
+  }
+}
+.contact-container img {
+  position: absolute;
+  top: 170px;
+  left: -40px;
+  width: 200px;
+}
+@media screen and (max-width: 1024px) {
+  .contact-container img {
+    left: -70px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .contact-container img {
+    left: -40px;
+  }
+}
+.contact-container .contact-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  width: 50%;
+  height: 400px;
+  padding: 1rem;
+  border: 1rem solid #5b2a86;
+  border-radius: 1rem 0 0 1rem;
+  padding: 2rem;
+  text-align: center;
+  background-color: #fff;
+}
+@media screen and (max-width: 768px) {
+  .contact-container .contact-details {
+    width: 90%;
+    border-radius: 1rem 1rem 0 0;
+  }
+}
+.contact-container .contact-details h2 {
+  font-size: 2rem;
+  color: #5b2a86;
+  font-weight: 900;
+}
+@media screen and (max-width: 768px) {
+  .contact-container .contact-details h2 {
+    font-size: 1.5rem;
+  }
+}
+.contact-container .contact-details p {
+  display: flex;
+  justify-content: left;
+  padding-left: 2rem;
+  line-height: 2rem;
+  align-items: center;
+  font-size: 1.2rem;
+  font-weight: 900;
+  flex-wrap: wrap;
+}
+@media screen and (max-width: 1360px) {
+  .contact-container .contact-details p {
+    font-size: 0.9rem;
+    padding-left: 1.8rem;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .contact-container .contact-details p {
+    padding-left: 0.4rem;
+  }
+}
+@media screen and (max-width: 480px) {
+  .contact-container .contact-details p {
+    font-size: 0.7rem;
+  }
+}
+.contact-container .contact-details p a {
+  color: #5b2a86;
+  transition: all 0.3s ease;
+}
+.contact-container .contact-details p a:hover {
+  color: #9d4edd;
+}
+.contact-container .contact-details p i {
+  margin: 0 0.5rem 0 2rem;
+}
+@media screen and (max-width: 1360px) {
+  .contact-container .contact-details p i {
+    margin: 0 0.4rem 0 1.2rem;
+  }
+}
+@media screen and (max-width: 480px) {
+  .contact-container .contact-details p i {
+    margin: 0 0.2rem 0 0.6rem;
+  }
+}
+.contact-container .contact-details p strong {
+  font-weight: 500;
+}
+.contact-container .contact-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 400px;
+  text-align: left;
+  padding: 2rem;
+  background-color: #5b2a86;
+  border-radius: 0 1rem 1rem 0;
+}
+@media screen and (max-width: 768px) {
+  .contact-container .contact-form {
+    width: 90%;
+    border-radius: 0 0 1rem 1rem;
+  }
+}
+.contact-container .contact-form .form-label,
+.contact-container .contact-form .form-input {
+  display: block;
+  margin-bottom: 1rem;
+  color: #fff;
+}
+.contact-container .contact-form .form-input {
+  width: 80%;
+  height: 2.5rem;
+  padding: 1rem;
+  border: none;
+  border-radius: 1rem;
+  color: #000;
+  transition: all 0.5s ease;
+}
+@media screen and (max-width: 480px) {
+  .contact-container .contact-form .form-input {
+    width: 100%;
+    height: 2.2rem;
+  }
+}
+.contact-container .contact-form .form-input.textarea {
+  width: 80%;
+  height: 10rem;
+}
+@media screen and (max-width: 480px) {
+  .contact-container .contact-form .form-input.textarea {
+    width: 100%;
+  }
+}
+.contact-container .contact-form .form-input:focus {
+  background-color: #9d4edd;
+  outline: none;
+}
+.contact-container .contact-form .btn {
+  background-color: #9d4edd;
+  margin: 0.5rem;
+  padding: 0.5rem 1.5rem;
+}
+.contact-container .contact-form .btn:hover {
+  background-color: #5b2a86;
+  color: #fff;
 }/*# sourceMappingURL=global.css.map */
