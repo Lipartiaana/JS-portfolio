@@ -1,10 +1,50 @@
 {
   "projects": [
     {
+      "title": "New Idea",
+      "image": "./Assets/projects/new-idea-thumbnail.png",
+      "description": "NNLE - New Idea ",
+      "techStack": "HTML, CSS, JavaScript, PHP, Wordpress",
+      "sourceCode": "",
+      "viewDemo": "https://newidea.ge/mtavari-ka/"
+    },
+    {
+      "title": "Tbilisi Warehouse",
+      "image": "./Assets/projects/Tbilisi-warehouse-thumbnail.png",
+      "description": "Tbilisi Warehouse - LLC Cherie",
+      "techStack": "HTML, CSS, JavaScript, Swiper.js, PHP, Wordpress",
+      "sourceCode": "",
+      "viewDemo": "https://tbilisi-warehouse.ge/mimoxilva-ka/"
+    },
+    {
+      "title": "Warehouse For Sale",
+      "image": "./Assets/projects/Warehouseforsale-thumbnail.png",
+      "description": "Warehouse For Sale - LLC Cherie",
+      "techStack": "HTML, CSS, JavaScript, Swiper.js, PHP, Wordpress",
+      "sourceCode": "",
+      "viewDemo": "https://tbilisi-warehouse.ge/mimoxilva-ka/"
+    },
+    {
+      "title": "Abasha Municipality",
+      "image": "./Assets/projects/Abasha-municipality-thumbnail.png",
+      "description": "Abasha Municipality - Only design update and tech support",
+      "techStack": "HTML, CSS, JavaScript, PHP, Wordpress",
+      "sourceCode": "",
+      "viewDemo": "https://abasha.gov.ge/"
+    },
+    {
+      "title": "Cherie",
+      "image": "./Assets/projects/cherie-thumbnail.png",
+      "description": "Cherie - LLC Cherie - Only content managment and tech support",
+      "techStack": "HTML, CSS, JavaScript, PHP, Wordpress",
+      "sourceCode": "",
+      "viewDemo": "https://cherie.ge/?lang=ge"
+    },
+    {
       "title": "Play Music",
       "image": "./Assets/projects/Play-music-thumbnail.png",
       "description": "Play Music",
-      "techStack": "HTML, CSS, SCSS, JavaScript",
+      "techStack": "HTML, CSS, SCSS, JavaScript, Swiper.js",
       "sourceCode": "https://github.com/Mind1a/playMusic",
       "viewDemo": "https://mind1a.github.io/playMusic/"
     },
@@ -23,6 +63,22 @@
       "techStack": "HTML, CSS, JavaScript, API",
       "sourceCode": "https://github.com/Lipartiaana/Tourist-landing-page",
       "viewDemo": "https://lipartiaana.github.io/Tourist-landing-page/"
+    },
+    {
+      "title": "Web Development Studio",
+      "image": "./Assets/projects/Web-development-studio-thumbnail.png",
+      "description": "Web Studio: Web Development studio",
+      "techStack": "HTML, CSS, SCSS, JavaScript, Swiper.js, SweetAlert",
+      "sourceCode": "https://github.com/Lipartiaana/web-development-studio",
+      "viewDemo": "https://lipartiaana.github.io/web-development-studio/"
+    },
+    {
+      "title": "Construction Company",
+      "image": "./Assets/projects/Construction-company-thumbnail.png",
+      "description": "SolidBuild: Construction company",
+      "techStack": "HTML, CSS, SCSS, JavaScript",
+      "sourceCode": "https://github.com/Lipartiaana/Construction-company",
+      "viewDemo": "https://lipartiaana.github.io/Construction-company/"
     },
     {
       "title": "My Portfolio",
