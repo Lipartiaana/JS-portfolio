@@ -2,8 +2,8 @@
   "projects": [
     {
       "title": "New Idea",
-      "image": "./Assets/projects/new-idea-thumbnail.png",
-      "description": "NNLE - New Idea ",
+      "image": "./Assets/projects/New-idea-thumbnail.png",
+      "description": "Contracted website for NNLE 'New Idea', an organization that provides support and opportunities for students.",
       "techStack": "HTML, CSS, JavaScript, PHP, Wordpress",
       "sourceCode": "",
       "viewDemo": "https://newidea.ge/mtavari-ka/"
@@ -11,7 +11,7 @@
     {
       "title": "Tbilisi Warehouse",
       "image": "./Assets/projects/Tbilisi-warehouse-thumbnail.png",
-      "description": "Tbilisi Warehouse - LLC Cherie",
+      "description": "Contracted website for LLC 'Cherie', providing information on daily rental options for pallet spaces.",
       "techStack": "HTML, CSS, JavaScript, Swiper.js, PHP, Wordpress",
       "sourceCode": "",
       "viewDemo": "https://tbilisi-warehouse.ge/mimoxilva-ka/"
@@ -19,7 +19,7 @@
     {
       "title": "Warehouse For Sale",
       "image": "./Assets/projects/Warehouseforsale-thumbnail.png",
-      "description": "Warehouse For Sale - LLC Cherie",
+      "description": "Contracted website for LLC 'Cherie', advertising the Tbilisi Warehouse.",
       "techStack": "HTML, CSS, JavaScript, Swiper.js, PHP, Wordpress",
       "sourceCode": "",
       "viewDemo": "https://tbilisi-warehouse.ge/mimoxilva-ka/"
@@ -27,7 +27,7 @@
     {
       "title": "Abasha Municipality",
       "image": "./Assets/projects/Abasha-municipality-thumbnail.png",
-      "description": "Abasha Municipality - Only design update and tech support",
+      "description": "Contracted website redesign and technical support for Abasha Municipality, a local government entity.",
       "techStack": "HTML, CSS, JavaScript, PHP, Wordpress",
       "sourceCode": "",
       "viewDemo": "https://abasha.gov.ge/"
@@ -35,7 +35,7 @@
     {
       "title": "Cherie",
       "image": "./Assets/projects/cherie-thumbnail.png",
-      "description": "Cherie - LLC Cherie - Only content managment and tech support",
+      "description": "Contracted website content management and support for LLC 'Cherie', a coffee brand.",
       "techStack": "HTML, CSS, JavaScript, PHP, Wordpress",
       "sourceCode": "",
       "viewDemo": "https://cherie.ge/?lang=ge"
@@ -43,7 +43,7 @@
     {
       "title": "Play Music",
       "image": "./Assets/projects/Play-music-thumbnail.png",
-      "description": "Play Music",
+      "description": "Internship project at 'Unilab', a presentational website for a game designed for school students.",
       "techStack": "HTML, CSS, SCSS, JavaScript, Swiper.js",
       "sourceCode": "https://github.com/Mind1a/playMusic",
       "viewDemo": "https://mind1a.github.io/playMusic/"
@@ -51,7 +51,7 @@
     {
       "title": "Illustrations Gallery",
       "image": "./Assets/projects/Illustration-gallery-thumbnail.png",
-      "description": "Illustrations Gallery",
+      "description": "Intership project at 'Unilab', a gallery showcasing illustrations from children's book.",
       "techStack": "HTML, CSS, SCSS, JavaScript",
       "sourceCode": "https://github.com/Mind1a/illustrationsGallery",
       "viewDemo": "https://mind1a.github.io/illustrationsGallery/"
@@ -59,15 +59,23 @@
     {
       "title": "Tourist Landing Page",
       "image": "./Assets/projects/Tourist-landing-page-thumbnail.png",
-      "description": "Tourist Landing Page",
+      "description": "Project for 'Unilab' internship admission, website about tourism concepts.",
       "techStack": "HTML, CSS, JavaScript, API",
       "sourceCode": "https://github.com/Lipartiaana/Tourist-landing-page",
       "viewDemo": "https://lipartiaana.github.io/Tourist-landing-page/"
     },
     {
+      "title": "My Portfolio",
+      "image": "./Assets/projects/My-JS-portfolio-thumbnail.png",
+      "description": "Portfolio highlighting my web development skills and completed projects.",
+      "techStack": "HTML, CSS, SCSS, JavaScript",
+      "sourceCode": "https://github.com/Lipartiaana/JS-portfolio",
+      "viewDemo": "https://lipartiaana.github.io/JS-portfolio/"
+    },
+    {
       "title": "Web Development Studio",
       "image": "./Assets/projects/Web-development-studio-thumbnail.png",
-      "description": "Web Studio: Web Development studio",
+      "description": "Personal Project, comprehensive website for showcasing web development services.",
       "techStack": "HTML, CSS, SCSS, JavaScript, Swiper.js, SweetAlert",
       "sourceCode": "https://github.com/Lipartiaana/web-development-studio",
       "viewDemo": "https://lipartiaana.github.io/web-development-studio/"
@@ -75,23 +83,15 @@
     {
       "title": "Construction Company",
       "image": "./Assets/projects/Construction-company-thumbnail.png",
-      "description": "SolidBuild: Construction company",
+      "description": "Personal project, portfolio site displaying 'SolidBuild’s' completed construction projects.",
       "techStack": "HTML, CSS, SCSS, JavaScript",
       "sourceCode": "https://github.com/Lipartiaana/Construction-company",
       "viewDemo": "https://lipartiaana.github.io/Construction-company/"
     },
     {
-      "title": "My Portfolio",
-      "image": "./Assets/projects/My-JS-portfolio-thumbnail.png",
-      "description": "My Portfolio",
-      "techStack": "HTML, CSS, SCSS, JavaScript",
-      "sourceCode": "https://github.com/Lipartiaana/JS-portfolio",
-      "viewDemo": "https://lipartiaana.github.io/JS-portfolio/"
-    },
-    {
       "title": "Exotic Registration Form",
       "image": "./Assets/projects/Exotic-registration-form-thumbnail.png",
-      "description": "Exotic Registration Form",
+      "description": "Personal project, interactive user registration form designed with JavaScript validation and responsive styling.",
       "techStack": "HTML, CSS, JavaScript",
       "sourceCode": "https://github.com/Lipartiaana/Exotic-registration-form",
       "viewDemo": "https://lipartiaana.github.io/Exotic-registration-form/"
@@ -99,7 +99,7 @@
     {
       "title": "Tip Calculator",
       "image": "./Assets/projects/Tip-calculator-thumbnail.png",
-      "description": "Tip Calculator",
+      "description": "Personal project , handy web-based tool for quick and easy tip calculations.",
       "techStack": "HTML, CSS, JavaScript",
       "sourceCode": "https://github.com/Lipartiaana/Tip-Calculator",
       "viewDemo": "https://lipartiaana.github.io/Tip-Calculator/"
@@ -107,7 +107,7 @@
     {
       "title": "Legal Services Page",
       "image": "./Assets/projects/Legal-services-page-thumbnail.png",
-      "description": "Legal Services Page",
+      "description": "Personal project, an informative landing page for a legal services company.",
       "techStack": "HTML, CSS",
       "sourceCode": "https://github.com/Lipartiaana/Legal-Services-page",
       "viewDemo": "https://lipartiaana.github.io/Legal-Services-page/"
@@ -115,7 +115,7 @@
     {
       "title": "Memory Game",
       "image": "./Assets/projects/Memory-game-thumbnail.png",
-      "description": "Memory Game",
+      "description": "Personal project, web-based memory game, featuring dynamic visuals and responsive animations.",
       "techStack": "HTML, CSS, SCSS, JavaScript",
       "sourceCode": "https://github.com/Lipartiaana/Memory-game",
       "viewDemo": "https://lipartiaana.github.io/Memory-game/"
@@ -123,7 +123,7 @@
     {
       "title": "Travel In Georgia",
       "image": "./Assets/projects/Travel-in-Georgia-thumbnail.png",
-      "description": "Travel In Georgia",
+      "description": "Personal project, a promotional website for Georgia tourism, highlighting local attractions and travel tips.",
       "techStack": "HTML, CSS",
       "sourceCode": "https://github.com/Lipartiaana/Travel-in-Georgia",
       "viewDemo": "https://lipartiaana.github.io/Travel-in-Georgia/"
@@ -131,7 +131,7 @@
     {
       "title": "New Year Countdown",
       "image": "./Assets/projects/New-year-countdown-thumbnail.png",
-      "description": "Travel In Georgia",
+      "description": "Personal project, festive countdown timer for New Year's Eve celebrations. ",
       "techStack": "HTML, CSS, JavaScript",
       "sourceCode": "https://github.com/Lipartiaana/New-Year-Countdown",
       "viewDemo": "https://lipartiaana.github.io/New-Year-Countdown/"
@@ -139,7 +139,7 @@
     {
       "title": "Pig Game",
       "image": "./Assets/projects/Pig-game-thumbnail.png",
-      "description": "Pig Game",
+      "description": "Personal project, interactive web game based on dice rolling. ",
       "techStack": "HTML, CSS, JavaScript",
       "sourceCode": "https://github.com/Lipartiaana/Pig-Game",
       "viewDemo": "https://lipartiaana.github.io/Pig-Game/"
@@ -147,7 +147,7 @@
     {
       "title": "Guess My Number",
       "image": "./Assets/projects/Guess-my-number-thumbnail.png",
-      "description": "Guess My Number",
+      "description": "Personal project, simple number-guessing game with interactive gameplay.",
       "techStack": "HTML, CSS, JavaScript",
       "sourceCode": "https://github.com/Lipartiaana/Guess-My-Number-Game",
       "viewDemo": "https://lipartiaana.github.io/Guess-My-Number-Game/"
