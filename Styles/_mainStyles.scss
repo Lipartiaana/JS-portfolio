@@ -1,7 +1,9 @@
 body {
   background-color: $background-color;
+  font-family: "Work Sans", serif;
 
   header {
+    font-family: initial;
     .navbar {
       padding: 1rem;
 

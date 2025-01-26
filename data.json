@@ -43,7 +43,7 @@
     {
       "title": "Furniture House",
       "image": "./Assets/projects/Furniture-house-thumbnail.png",
-      "description": "Personal project, furniture online shop",
+      "description": "Personal project, multi-page eCommerce website offering a wide range of furniture products.",
       "techStack": "HTML, CSS, SCSS, JavaScript, Bootsrap, Swiper.js",
       "sourceCode": "https://github.com/Lipartiaana/Furniture-house",
       "viewDemo": "https://lipartiaana.github.io/Furniture-house/"
