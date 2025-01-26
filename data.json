@@ -41,6 +41,30 @@
       "viewDemo": "https://cherie.ge/?lang=ge"
     },
     {
+      "title": "Furniture House",
+      "image": "./Assets/projects/Furniture-house-thumbnail.png",
+      "description": "Personal project, furniture online shop",
+      "techStack": "HTML, CSS, SCSS, JavaScript, Bootsrap, Swiper.js",
+      "sourceCode": "https://github.com/Lipartiaana/Furniture-house",
+      "viewDemo": "https://lipartiaana.github.io/Furniture-house/"
+    },
+    {
+      "title": "My Portfolio",
+      "image": "./Assets/projects/My-JS-portfolio-thumbnail.png",
+      "description": "Portfolio highlighting my web development skills and completed projects.",
+      "techStack": "HTML, CSS, SCSS, JavaScript, Bootstrap",
+      "sourceCode": "https://github.com/Lipartiaana/JS-portfolio",
+      "viewDemo": "https://lipartiaana.github.io/JS-portfolio/"
+    },
+    {
+      "title": "Web Development Studio",
+      "image": "./Assets/projects/Web-development-studio-thumbnail.png",
+      "description": "Personal Project, comprehensive website for showcasing web development services.",
+      "techStack": "HTML, CSS, SCSS, JavaScript, Swiper.js, SweetAlert",
+      "sourceCode": "https://github.com/Lipartiaana/web-development-studio",
+      "viewDemo": "https://lipartiaana.github.io/web-development-studio/"
+    },
+    {
       "title": "Play Music",
       "image": "./Assets/projects/Play-music-thumbnail.png",
       "description": "Internship project at 'Unilab', a presentational website for a game designed for school students.",
@@ -65,22 +89,6 @@
       "viewDemo": "https://lipartiaana.github.io/Tourist-landing-page/"
     },
     {
-      "title": "My Portfolio",
-      "image": "./Assets/projects/My-JS-portfolio-thumbnail.png",
-      "description": "Portfolio highlighting my web development skills and completed projects.",
-      "techStack": "HTML, CSS, SCSS, JavaScript",
-      "sourceCode": "https://github.com/Lipartiaana/JS-portfolio",
-      "viewDemo": "https://lipartiaana.github.io/JS-portfolio/"
-    },
-    {
-      "title": "Web Development Studio",
-      "image": "./Assets/projects/Web-development-studio-thumbnail.png",
-      "description": "Personal Project, comprehensive website for showcasing web development services.",
-      "techStack": "HTML, CSS, SCSS, JavaScript, Swiper.js, SweetAlert",
-      "sourceCode": "https://github.com/Lipartiaana/web-development-studio",
-      "viewDemo": "https://lipartiaana.github.io/web-development-studio/"
-    },
-    {
       "title": "Construction Company",
       "image": "./Assets/projects/Construction-company-thumbnail.png",
       "description": "Personal project, portfolio site displaying 'SolidBuild’s' completed construction projects.",
@@ -89,20 +97,12 @@
       "viewDemo": "https://lipartiaana.github.io/Construction-company/"
     },
     {
-      "title": "Exotic Registration Form",
-      "image": "./Assets/projects/Exotic-registration-form-thumbnail.png",
-      "description": "Personal project, interactive user registration form designed with JavaScript validation and responsive styling.",
-      "techStack": "HTML, CSS, JavaScript",
-      "sourceCode": "https://github.com/Lipartiaana/Exotic-registration-form",
-      "viewDemo": "https://lipartiaana.github.io/Exotic-registration-form/"
-    },
-    {
-      "title": "Tip Calculator",
-      "image": "./Assets/projects/Tip-calculator-thumbnail.png",
-      "description": "Personal project , handy web-based tool for quick and easy tip calculations.",
-      "techStack": "HTML, CSS, JavaScript",
-      "sourceCode": "https://github.com/Lipartiaana/Tip-Calculator",
-      "viewDemo": "https://lipartiaana.github.io/Tip-Calculator/"
+      "title": "Travel In Georgia",
+      "image": "./Assets/projects/Travel-in-Georgia-thumbnail.png",
+      "description": "Personal project, a promotional website for Georgia tourism, highlighting local attractions and travel tips.",
+      "techStack": "HTML, CSS",
+      "sourceCode": "https://github.com/Lipartiaana/Travel-in-Georgia",
+      "viewDemo": "https://lipartiaana.github.io/Travel-in-Georgia/"
     },
     {
       "title": "Legal Services Page",
@@ -121,12 +121,20 @@
       "viewDemo": "https://lipartiaana.github.io/Memory-game/"
     },
     {
-      "title": "Travel In Georgia",
-      "image": "./Assets/projects/Travel-in-Georgia-thumbnail.png",
-      "description": "Personal project, a promotional website for Georgia tourism, highlighting local attractions and travel tips.",
-      "techStack": "HTML, CSS",
-      "sourceCode": "https://github.com/Lipartiaana/Travel-in-Georgia",
-      "viewDemo": "https://lipartiaana.github.io/Travel-in-Georgia/"
+      "title": "Exotic Registration Form",
+      "image": "./Assets/projects/Exotic-registration-form-thumbnail.png",
+      "description": "Personal project, interactive user registration form designed with JavaScript validation and responsive styling.",
+      "techStack": "HTML, CSS, JavaScript",
+      "sourceCode": "https://github.com/Lipartiaana/Exotic-registration-form",
+      "viewDemo": "https://lipartiaana.github.io/Exotic-registration-form/"
+    },
+    {
+      "title": "Tip Calculator",
+      "image": "./Assets/projects/Tip-calculator-thumbnail.png",
+      "description": "Personal project , handy web-based tool for quick and easy tip calculations.",
+      "techStack": "HTML, CSS, JavaScript",
+      "sourceCode": "https://github.com/Lipartiaana/Tip-Calculator",
+      "viewDemo": "https://lipartiaana.github.io/Tip-Calculator/"
     },
     {
       "title": "New Year Countdown",
