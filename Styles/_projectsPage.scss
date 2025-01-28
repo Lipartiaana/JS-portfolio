@@ -120,4 +120,26 @@
       }
     }
   }
+  .pagination {
+    gap: 10px;
+    margin-bottom: 2rem;
+
+    .pagination-button {
+      font-size: 1.2rem;
+      width: 40px;
+      background-color: $primary-color-light;
+      color: $white-color;
+      padding: 10px;
+      border: none;
+      border-radius: 6px;
+
+      &:disabled {
+        background-color: $disable-color;
+      }
+
+      &.active {
+        background-color: $primary-color;
+      }
+    }
+  }
 }

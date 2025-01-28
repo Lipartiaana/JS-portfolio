@@ -474,6 +474,25 @@ body main .sidebar .sidebar-links i:hover {
 .projects-container .projects-wrapper .project .project-btns a .btn:hover {
   background-color: #5b2a86;
 }
+.projects-container .pagination {
+  gap: 10px;
+  margin-bottom: 2rem;
+}
+.projects-container .pagination .pagination-button {
+  font-size: 1.2rem;
+  width: 40px;
+  background-color: #9d4edd;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+}
+.projects-container .pagination .pagination-button:disabled {
+  background-color: #b4a7be;
+}
+.projects-container .pagination .pagination-button.active {
+  background-color: #5b2a86;
+}
 
 .contact-container {
   display: flex;

@@ -1,4 +1,4 @@
-function createProjectHTML(project) {
+export function createProjectHTML(project) {
   return `
      <div class="project">
       <img src=".${project.image}" alt="title" />
@@ -34,14 +34,14 @@ function createProjectHTML(project) {
 }
 
 // Fetching project data from JSON file
-fetch("../data.json")
-  .then((response) => response.json())
-  .then((data) => {
-    const projectsContainer = document.querySelector(".projects-wrapper");
+// fetch("../data.json")
+//   .then((response) => response.json())
+//   .then((data) => {
+//     const projectsContainer = document.querySelector(".projects-wrapper");
 
-    data.projects.forEach((project) => {
-      const projectHTML = createProjectHTML(project);
-      projectsContainer.innerHTML += projectHTML;
-    });
-  })
-  .catch((error) => console.error("Error fetching projects:", error));
+//     data.projects.forEach((project) => {
+//       const projectHTML = createProjectHTML(project);
+//       projectsContainer.innerHTML += projectHTML;
+//     });
+//   })
+//   .catch((error) => console.error("Error fetching projects:", error));
