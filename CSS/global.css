@@ -155,6 +155,19 @@ body header .navbar {
 body header .navbar #navbarNav {
   justify-content: right;
 }
+body .language {
+  display: flex;
+  position: fixed;
+  top: 4rem;
+  right: 1rem;
+  gap: 10px;
+  z-index: 1000;
+}
+body .language .btn {
+  width: 40px;
+  height: 35px;
+  padding: 0;
+}
 body main {
   background-color: #30343f;
   height: -moz-fit-content;

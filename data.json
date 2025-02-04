@@ -4,6 +4,7 @@
       "title": "New Idea",
       "image": "./Assets/projects/New-idea-thumbnail.png",
       "description": "Contracted website for NNLE 'New Idea', an organization that provides support and opportunities for students.",
+      "descriptionKa": "ააიპ „ახალი იდეა“-ის ვებგვერდი, ორგანიზაცია უზრუნველყოფს სტუდენტების მხარდაჭერას და შესაძლებლობების გაზრდას.",
       "techStack": "HTML, CSS, JavaScript, PHP, Wordpress",
       "sourceCode": "",
       "viewDemo": "https://newidea.ge/mtavari-ka/"
@@ -12,6 +13,7 @@
       "title": "Tbilisi Warehouse",
       "image": "./Assets/projects/Tbilisi-warehouse-thumbnail.png",
       "description": "Contracted website for LLC 'Cherie', providing information on daily rental options for pallet spaces.",
+      "descriptionKa": "შპს 'ჩერი'-ის ვებსაიტი, Tbilisi warehouse- თვის, სადაც ხდება საპლეტე და სასაწყობე ფართების გაქირავება.",
       "techStack": "HTML, CSS, JavaScript, Swiper.js, PHP, Wordpress",
       "sourceCode": "",
       "viewDemo": "https://tbilisi-warehouse.ge/mimoxilva-ka/"
@@ -20,6 +22,7 @@
       "title": "Warehouse For Sale",
       "image": "./Assets/projects/Warehouseforsale-thumbnail.png",
       "description": "Contracted website for LLC 'Cherie', advertising the Tbilisi Warehouse.",
+      "descriptionKa": "შპს 'ჩერი'-ის ვებგვერდი, Tbilisi warehouse-ის საპრეზენტაციოდ.",
       "techStack": "HTML, CSS, JavaScript, Swiper.js, PHP, Wordpress",
       "sourceCode": "",
       "viewDemo": "https://warehouseforsale.ge/mimoxilva-ka/"
@@ -28,6 +31,7 @@
       "title": "Abasha Municipality",
       "image": "./Assets/projects/Abasha-municipality-thumbnail.png",
       "description": "Contracted website redesign and technical support for Abasha Municipality, a local government entity.",
+      "descriptionKa": "აბაშის მუნიციპალიტეტის თვითმმართველობის ვებგვერდის რედიზაინი და ტექნიკური მხარდაჭერა.",
       "techStack": "HTML, CSS, JavaScript, PHP, Wordpress",
       "sourceCode": "",
       "viewDemo": "https://abasha.gov.ge/"
@@ -36,6 +40,7 @@
       "title": "Cherie",
       "image": "./Assets/projects/cherie-thumbnail.png",
       "description": "Contracted website content management and support for LLC 'Cherie', a coffee brand.",
+      "descriptionKa": "შპს 'ჩერი'-სთვის ყავის ბრენდის ვებსაიტის კონტენტ-მენეჯმენტი და მხარდაჭერა.",
       "techStack": "HTML, CSS, JavaScript, PHP, Wordpress",
       "sourceCode": "",
       "viewDemo": "https://cherie.ge/?lang=ge"
@@ -44,6 +49,7 @@
       "title": "Furniture House",
       "image": "./Assets/projects/Furniture-house-thumbnail.png",
       "description": "Personal project, multi-page eCommerce website offering a wide range of furniture products.",
+      "descriptionKa": "პერსონალური პროექტი, მრავალგვერდიანი Ecommerce ვებსაიტი, ავეჯის ონლაინ მაღაზიისთვის",
       "techStack": "HTML, CSS, SCSS, JavaScript, Bootsrap, Swiper.js",
       "sourceCode": "https://github.com/Lipartiaana/Furniture-house",
       "viewDemo": "https://lipartiaana.github.io/Furniture-house/"
@@ -52,6 +58,7 @@
       "title": "My Portfolio",
       "image": "./Assets/projects/My-JS-portfolio-thumbnail.png",
       "description": "Portfolio highlighting my web development skills and completed projects.",
+      "descriptionKa": "ჩემი პორტფოლიო, რომელიც წარმოაჩენს ჩემს ტექნიკურ უნარებს და დასრულებულ პროექტებს",
       "techStack": "HTML, CSS, SCSS, JavaScript, Bootstrap",
       "sourceCode": "https://github.com/Lipartiaana/JS-portfolio",
       "viewDemo": "https://lipartiaana.github.io/JS-portfolio/"
@@ -60,6 +67,7 @@
       "title": "Web Development Studio",
       "image": "./Assets/projects/Web-development-studio-thumbnail.png",
       "description": "Personal Project, comprehensive website for showcasing web development services.",
+      "descriptionKa": "პერსონალური პროექტი, ვებ დეველოპერული სტარტაპის ვებსაიტი.",
       "techStack": "HTML, CSS, SCSS, JavaScript, Swiper.js, SweetAlert",
       "sourceCode": "https://github.com/Lipartiaana/web-development-studio",
       "viewDemo": "https://lipartiaana.github.io/web-development-studio/"
@@ -68,6 +76,7 @@
       "title": "Play Music",
       "image": "./Assets/projects/Play-music-thumbnail.png",
       "description": "Internship project at 'Unilab', a presentational website for a game designed for school students.",
+      "descriptionKa": "'უნილაბი'-ს სტაჟირების პროექტი, საპრეზენტაციო ვებგვერდი თამაშისთვის, რომელიც განკუთვნილია სკოლის მოსწავლეებისთვის.",
       "techStack": "HTML, CSS, SCSS, JavaScript, Swiper.js",
       "sourceCode": "https://github.com/Mind1a/playMusic",
       "viewDemo": "https://mind1a.github.io/playMusic/"
@@ -76,6 +85,7 @@
       "title": "Illustrations Gallery",
       "image": "./Assets/projects/Illustration-gallery-thumbnail.png",
       "description": "Intership project at 'Unilab', a gallery showcasing illustrations from children's book.",
+      "descriptionKa": "'უნილაბი'-ს სტაჟირების პროექტი, საბავშვო ონლაინ ზღაპრების ილუსტრაციების გალერეა.",
       "techStack": "HTML, CSS, SCSS, JavaScript",
       "sourceCode": "https://github.com/Mind1a/illustrationsGallery",
       "viewDemo": "https://mind1a.github.io/illustrationsGallery/"
@@ -84,6 +94,7 @@
       "title": "Tourist Landing Page",
       "image": "./Assets/projects/Tourist-landing-page-thumbnail.png",
       "description": "Project for 'Unilab' internship admission, website about tourism concepts.",
+      "descriptionKa": "პროექტი 'უნილაბი'-ის სტაჟირებაზე მისაღებად, ტურისტული კომპანიის ვებგვერდი.",
       "techStack": "HTML, CSS, JavaScript, API",
       "sourceCode": "https://github.com/Lipartiaana/Tourist-landing-page",
       "viewDemo": "https://lipartiaana.github.io/Tourist-landing-page/"
@@ -92,6 +103,7 @@
       "title": "Construction Company",
       "image": "./Assets/projects/Construction-company-thumbnail.png",
       "description": "Personal project, portfolio site displaying 'SolidBuild’s' completed construction projects.",
+      "descriptionKa": "პერსონალური პროექტი, საპრეზენტაციო საიტი, რომელშიც ნაჩვენებია სამშენებლო კომპანია 'SolidBuild'-ის დასრულებული ობიექტები",
       "techStack": "HTML, CSS, SCSS, JavaScript",
       "sourceCode": "https://github.com/Lipartiaana/Construction-company",
       "viewDemo": "https://lipartiaana.github.io/Construction-company/"
@@ -100,6 +112,7 @@
       "title": "Travel In Georgia",
       "image": "./Assets/projects/Travel-in-Georgia-thumbnail.png",
       "description": "Personal project, a promotional website for Georgia tourism, highlighting local attractions and travel tips.",
+      "descriptionKa": "პერსონალური პროექტი, ვებგვერდი, რომელიც წარმოგვიდგენს საქრთველოს ღირსშესანიშნაობებსა და ტურისტულ მარშრუტებს.",
       "techStack": "HTML, CSS",
       "sourceCode": "https://github.com/Lipartiaana/Travel-in-Georgia",
       "viewDemo": "https://lipartiaana.github.io/Travel-in-Georgia/"
@@ -108,6 +121,7 @@
       "title": "Legal Services Page",
       "image": "./Assets/projects/Legal-services-page-thumbnail.png",
       "description": "Personal project, an informative landing page for a legal services company.",
+      "descriptionKa": "პერსონალური პროექტი, საინფორმაციო გვერდი იურიდიული კომპანიისთვის.",
       "techStack": "HTML, CSS",
       "sourceCode": "https://github.com/Lipartiaana/Legal-Services-page",
       "viewDemo": "https://lipartiaana.github.io/Legal-Services-page/"
@@ -116,6 +130,7 @@
       "title": "Memory Game",
       "image": "./Assets/projects/Memory-game-thumbnail.png",
       "description": "Personal project, web-based memory game, featuring dynamic visuals and responsive animations.",
+      "descriptionKa": "პერსონალური პროექტი, ვებ-ზე დაფუძნებული მეხსიერების თამაში, რომელშიც უნდა გაიხსენოთ სად არის დამალული ერთნაირი სურათები",
       "techStack": "HTML, CSS, SCSS, JavaScript",
       "sourceCode": "https://github.com/Lipartiaana/Memory-game",
       "viewDemo": "https://lipartiaana.github.io/Memory-game/"
@@ -124,6 +139,7 @@
       "title": "Exotic Registration Form",
       "image": "./Assets/projects/Exotic-registration-form-thumbnail.png",
       "description": "Personal project, interactive user registration form designed with JavaScript validation and responsive styling.",
+      "descriptionKa": "პერსონალური პროექტი, ინტერაქციული  სარეგისტრაციო ფორმა.",
       "techStack": "HTML, CSS, JavaScript",
       "sourceCode": "https://github.com/Lipartiaana/Exotic-registration-form",
       "viewDemo": "https://lipartiaana.github.io/Exotic-registration-form/"
@@ -132,6 +148,7 @@
       "title": "Tip Calculator",
       "image": "./Assets/projects/Tip-calculator-thumbnail.png",
       "description": "Personal project , handy web-based tool for quick and easy tip calculations.",
+      "descriptionKa": "პერსონალური პროექტი, ვებზე დაფუძნებული ინსტრუმენტი თიფის გამოსათვლელად.",
       "techStack": "HTML, CSS, JavaScript",
       "sourceCode": "https://github.com/Lipartiaana/Tip-Calculator",
       "viewDemo": "https://lipartiaana.github.io/Tip-Calculator/"
@@ -140,6 +157,7 @@
       "title": "New Year Countdown",
       "image": "./Assets/projects/New-year-countdown-thumbnail.png",
       "description": "Personal project, festive countdown timer for New Year's Eve celebrations. ",
+      "descriptionKa": "პერსონალური პროექტი, სადღესასწაულო ტაიმერი, ახალ წლამდე დარჩენილი დროის ასათვლელად.",
       "techStack": "HTML, CSS, JavaScript",
       "sourceCode": "https://github.com/Lipartiaana/New-Year-Countdown",
       "viewDemo": "https://lipartiaana.github.io/New-Year-Countdown/"
@@ -148,6 +166,7 @@
       "title": "Pig Game",
       "image": "./Assets/projects/Pig-game-thumbnail.png",
       "description": "Personal project, interactive web game based on dice rolling. ",
+      "descriptionKa": "პერსონალური პროექტი, ინტერაქციული ვებ თამაში, რომელიც დაფუძნებულია კამათლის გაგორებაზე.",
       "techStack": "HTML, CSS, JavaScript",
       "sourceCode": "https://github.com/Lipartiaana/Pig-Game",
       "viewDemo": "https://lipartiaana.github.io/Pig-Game/"
@@ -156,6 +175,7 @@
       "title": "Guess My Number",
       "image": "./Assets/projects/Guess-my-number-thumbnail.png",
       "description": "Personal project, simple number-guessing game with interactive gameplay.",
+      "descriptionKa": "პერსონალური პროექტი, რიცხვების გამოცნობის ინტერაქციული ვებ თამაში",
       "techStack": "HTML, CSS, JavaScript",
       "sourceCode": "https://github.com/Lipartiaana/Guess-My-Number-Game",
       "viewDemo": "https://lipartiaana.github.io/Guess-My-Number-Game/"

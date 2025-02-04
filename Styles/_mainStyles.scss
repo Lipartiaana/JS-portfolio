@@ -13,6 +13,21 @@ body {
     }
   }
 
+  .language {
+    display: flex;
+    position: fixed;
+    top: 4rem;
+    right: 1rem;
+    gap: 10px;
+    z-index: 1000;
+
+    .btn {
+      width: 40px;
+      height: 35px;
+      padding: 0;
+    }
+  }
+
   main {
     background-color: $background-color;
     height: fit-content;
