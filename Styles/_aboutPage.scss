@@ -1,22 +1,22 @@
 .about {
   width: 100%;
   max-width: $main-width;
-  padding: 5rem;
+  padding: 3rem 5rem 1rem 1rem;
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 2rem;
-  min-height: 100vh;
+  min-height: 95vh;
   height: fit-content;
 
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 992px) {
     margin-top: 5rem;
     flex-direction: column;
-    padding: 0 3rem;
+    padding: 0 5rem 0 2rem;
   }
 
   .about-content {
-    width: 50%;
+    flex: 2;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -24,33 +24,75 @@
 
     @media screen and (max-width: 768px) {
       width: 100%;
-      align-items: center;
+    }
+
+    hr {
+      color: $white-color;
     }
 
     h1 {
       font-family: "Itim", serif;
       font-size: 2.5rem;
       color: $white-color;
-      margin-bottom: 1rem;
+
+      @media screen and (max-width: 600px) {
+        font-size: 2rem;
+      }
+    }
+
+    h4 {
+      font-family: "Itim", serif;
+      font-size: 1.5rem;
+      color: $white-color;
+      text-transform: uppercase;
+
+      @media screen and (max-width: 600px) {
+        font-size: 1.2rem;
+      }
     }
 
     p {
       font-family: "Itim", serif;
       color: $white-color;
-      font-size: 1.3rem;
+      font-size: 1.1rem;
       margin-bottom: 1rem;
+      font-weight: 300;
+
+      @media screen and (max-width: 600px) {
+        font-size: 1rem;
+      }
 
       &.highlited-text {
         font-family: initial;
         color: $primary-color-light;
         font-weight: 900;
-        font-size: 1.5rem;
+        font-size: 1.3rem;
       }
+    }
+
+    i {
+      color: $primary-color-light;
+    }
+
+    ul {
+      li {
+        font-family: "Itim", serif;
+        color: $white-color;
+        font-size: 1.1rem;
+        padding-left: 10px;
+      }
+      margin-bottom: 1rem;
+    }
+
+    span {
+      font-family: "Itim", serif;
+      color: $highlight-color;
+      font-size: 1.2rem;
     }
   }
 
   .about-img {
-    width: 50%;
+    flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
