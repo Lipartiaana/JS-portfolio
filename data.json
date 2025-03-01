@@ -1,6 +1,15 @@
 {
   "projects": [
     {
+      "title": "ICE 1",
+      "image": "./Assets/projects/ICE1-thumbnail.png",
+      "description": "Contracted website, An informational platform for 'Industrial Coffee Enterprise N1' LLC.",
+      "descriptionKa": "შპს „ინდუსტრიული ყავის საწარმო N1“-ის საინფორმაციო ვებსაიტი",
+      "techStack": "HTML, CSS, JavaScript, PHP, Wordpress",
+      "sourceCode": "",
+      "viewDemo": "https://ice1.ge/main-ka/"
+    },
+    {
       "title": "New Idea",
       "image": "./Assets/projects/New-idea-thumbnail.png",
       "description": "Contracted website for NNLE 'New Idea', an organization that provides support and opportunities for students.",
@@ -13,7 +22,7 @@
       "title": "Tbilisi Warehouse",
       "image": "./Assets/projects/Tbilisi-warehouse-thumbnail.png",
       "description": "Contracted website for LLC 'Cherie', providing information on daily rental options for pallet spaces.",
-      "descriptionKa": "შპს 'ჩერი'-ის ვებსაიტი, Tbilisi warehouse- თვის, სადაც ხდება საპლეტე და სასაწყობე ფართების გაქირავება.",
+      "descriptionKa": "შპს „ჩერი“-ის ვებსაიტი, Tbilisi warehouse- თვის, სადაც ხდება საპლეტე და სასაწყობე ფართების გაქირავება.",
       "techStack": "HTML, CSS, JavaScript, Swiper.js, PHP, Wordpress",
       "sourceCode": "",
       "viewDemo": "https://tbilisi-warehouse.ge/mimoxilva-ka/"
@@ -22,7 +31,7 @@
       "title": "Warehouse For Sale",
       "image": "./Assets/projects/Warehouseforsale-thumbnail.png",
       "description": "Contracted website for LLC 'Cherie', advertising the Tbilisi Warehouse.",
-      "descriptionKa": "შპს 'ჩერი'-ის ვებგვერდი, Tbilisi warehouse-ის საპრეზენტაციოდ.",
+      "descriptionKa": "შპს „ჩერი“-ის ვებგვერდი, Tbilisi warehouse-ის საპრეზენტაციოდ.",
       "techStack": "HTML, CSS, JavaScript, Swiper.js, PHP, Wordpress",
       "sourceCode": "",
       "viewDemo": "https://warehouseforsale.ge/mimoxilva-ka/"
@@ -40,7 +49,7 @@
       "title": "Cherie",
       "image": "./Assets/projects/cherie-thumbnail.png",
       "description": "Contracted website content management and support for LLC 'Cherie', a coffee brand.",
-      "descriptionKa": "შპს 'ჩერი'-სთვის ყავის ბრენდის ვებსაიტის კონტენტ-მენეჯმენტი და მხარდაჭერა.",
+      "descriptionKa": "შპს „ჩერი“-სთვის ყავის ბრენდის ვებსაიტის კონტენტ-მენეჯმენტი და მხარდაჭერა.",
       "techStack": "HTML, CSS, JavaScript, PHP, Wordpress",
       "sourceCode": "",
       "viewDemo": "https://cherie.ge/?lang=ge"
