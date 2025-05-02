@@ -28,6 +28,15 @@
       "viewDemo": "https://tbilisi-warehouse.ge/mimoxilva-ka/"
     },
     {
+      "title": "Marani public School",
+      "image": "./Assets/projects/marani-thumbnail.png",
+      "description": "Contracted platform for 'Marani Public School' that features school news, information about teachers, educational programs, and the learning process.",
+      "descriptionKa": "„მარანის საჯარო სკოლის“-ის ვებგვერდი, სადაც განათავსებულია სკოლის სიახლეები, ინფორმაცია პედაგოგების, სასწავლო პროცესის და პროგრამების შესახებ",
+      "techStack": "HTML, CSS, JavaScript, Swiper.js, PHP, Wordpress",
+      "sourceCode": "",
+      "viewDemo": "https://marani.school.ge/"
+    },
+    {
       "title": "Warehouse For Sale",
       "image": "./Assets/projects/Warehouseforsale-thumbnail.png",
       "description": "Contracted website for LLC 'Cherie', advertising the Tbilisi Warehouse.",
