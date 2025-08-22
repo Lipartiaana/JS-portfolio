@@ -46,6 +46,15 @@
       "viewDemo": "https://warehouseforsale.ge/mimoxilva-ka/"
     },
     {
+      "title": "Apartments For sale",
+      "image": "./Assets/projects/Apartmentsforsale-thumbnail.png",
+      "description": "Contracted website for a real estate company, showcasing exclusive apartments for sale in Tbilisi",
+      "descriptionKa": "ვებგვერდი უძრავი ქონების სააგენტოსთვის, რომელიც წარმოგვიდგენს ექსკლუზიურ ბინებს თბილისში",
+      "techStack": "HTML, CSS, JavaScript, PHP, Wordpress",
+      "sourceCode": "",
+      "viewDemo": "https://apartmentsforsale.ge/"
+    },
+    {
       "title": "Abasha Municipality",
       "image": "./Assets/projects/Abasha-municipality-thumbnail.png",
       "description": "Contracted website redesign and technical support for Abasha Municipality, a local government entity.",
@@ -89,6 +98,15 @@
       "techStack": "HTML, CSS, SCSS, JavaScript, Swiper.js, SweetAlert",
       "sourceCode": "https://github.com/Lipartiaana/web-development-studio",
       "viewDemo": "https://lipartiaana.github.io/web-development-studio/"
+    },
+    {
+      "title": "TBC Banking Dashboard",
+      "image": "./Assets/projects/TBC-banking-dashboard-thumbnail.png",
+      "description": "Project completed for TBC IT Academy — design and implementation of a digital banking interface",
+      "descriptionKa": "'TBC IT Academy'-სთვის შესრულებული პროექტი, ციფრული ბანკის ინტერფეისის დიზაინი",
+      "techStack": "HTML, CSS",
+      "sourceCode": "https://github.com/Lipartiaana/TBC-banking-dashboard",
+      "viewDemo": "https://lipartiaana.github.io/TBC-banking-dashboard/"
     },
     {
       "title": "Play Music",
