@@ -29,7 +29,7 @@
     },
     {
       "title": "Stone Production Group",
-      "image": "./Assets/projects/spg-thumbnail.png",
+      "image": "./Assets/projects/Spg-thumbnail.png",
       "description": "Contracted website for LLC 'Stone Production Group', a manufacturer of natural stone decorations",
       "descriptionKa": "შპს „Stone Production Group“-ის ვებსაიტი, კომპანია ამზადებს ბუნებრივი ქვის დეკორაციებს",
       "techStack": "HTML, CSS, JavaScript, Swiper.js, PHP, Wordpress",
