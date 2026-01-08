@@ -28,6 +28,15 @@
       "viewDemo": "https://tbilisi-warehouse.ge/mimoxilva-ka/"
     },
     {
+      "title": "Stone Production Group",
+      "image": "./Assets/projects/spg-thumbnail.png",
+      "description": "Contracted website for LLC 'Stone Production Group', a manufacturer of natural stone decorations",
+      "descriptionKa": "შპს „Stone Production Group“-ის ვებსაიტი, კომპანია ამზადებს ბუნებრივი ქვის დეკორაციებს",
+      "techStack": "HTML, CSS, JavaScript, Swiper.js, PHP, Wordpress",
+      "sourceCode": "",
+      "viewDemo": "https://spggeorgia.ge/home/"
+    },
+    {
       "title": "Marani public School",
       "image": "./Assets/projects/marani-thumbnail.png",
       "description": "Contracted platform for 'Marani Public School' that features school news, information about teachers, educational programs, and the learning process.",
@@ -71,6 +80,15 @@
       "techStack": "HTML, CSS, JavaScript, PHP, Wordpress",
       "sourceCode": "",
       "viewDemo": "https://cherie.ge/?lang=ge"
+    },
+    {
+      "title": "Optimum",
+      "image": "./Assets/projects/optimum-thumbnail.png",
+      "description": "Collaborative WordPress project developed together with a fellow developer for 'Optimum', a metal and plastic manufacturing company.",
+      "descriptionKa": "კოლაბორაციული პროექტი დეველოპერთან ერთად მეტალისა და პლატსმასის მწარმოებელი კომპანიის 'ოპტიმუმისთვის'",
+      "techStack": "CSS, WordPress (Elementor, theme customization)",
+      "sourceCode": "",
+      "viewDemo": "https://alupvc.ge/Site/"
     },
     {
       "title": "Furniture House",
