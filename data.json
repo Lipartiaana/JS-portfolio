@@ -11,7 +11,7 @@
     },
     {
       "title": "Abasha Services",
-      "image": "./Assets/projects/Abashaservice-thumbnail.png",
+      "image": "./Assets/projects/abashaservice-thumbnail.png",
       "description": "Contracted website for the Abasha Municipality Improvement Service, a platform for municipal utility services and public communication.",
       "descriptionKa": "აბაშის მუნიციპალიტეტის კეთილმოწყობის სამსახურის ვებსაიტი, მუნიციპალური კომუნალური სერვისებისა და მოსახლეობასთან ურთიერთობის პლატფორმა.",
       "techStack": "HTML, CSS, JavaScript, PHP, Wordpress",
