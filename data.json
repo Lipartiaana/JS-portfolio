@@ -10,6 +10,15 @@
       "viewDemo": "https://ice1.ge/main-ka/"
     },
     {
+      "title": "Abasha Services",
+      "image": "./Assets/projects/Abashaservice-thumbnail.png",
+      "description": "Contracted website for the Abasha Municipality Improvement Service, a platform for municipal utility services and public communication.",
+      "descriptionKa": "აბაშის მუნიციპალიტეტის კეთილმოწყობის სამსახურის ვებსაიტი, მუნიციპალური კომუნალური სერვისებისა და მოსახლეობასთან ურთიერთობის პლატფორმა.",
+      "techStack": "HTML, CSS, JavaScript, PHP, Wordpress",
+      "sourceCode": "",
+      "viewDemo": "https://abashaservice.ge/"
+    },
+    {
       "title": "New Idea",
       "image": "./Assets/projects/New-idea-thumbnail.png",
       "description": "Contracted website for NNLE 'New Idea', an organization that provides support and opportunities for students.",
@@ -80,6 +89,15 @@
       "techStack": "HTML, CSS, JavaScript, PHP, Wordpress",
       "sourceCode": "",
       "viewDemo": "https://cherie.ge/?lang=ge"
+    },
+    {
+      "title": "Rusmedi Group",
+      "image": "./Assets/projects/Rusmedi-thumbnail.png",
+      "description": "Contracted website content management and support for the medical equipment store website of LLC 'Rusmedi Group'.",
+      "descriptionKa": "შპს „რუსმედი გრუპი“-სთვის სამედიცინო აღჭურვილობის მაღაზიის ვებსაიტის კონტენტ-მენეჯმენტი და მხარდაჭერა.",
+      "techStack": "CSS, WordPress (Elementor, theme customization)",
+      "sourceCode": "",
+      "viewDemo": "https://rusmedigroup.com/en/"
     },
     {
       "title": "Optimum",
